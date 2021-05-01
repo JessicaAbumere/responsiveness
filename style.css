@@ -16,7 +16,7 @@ body{
 }
 
 header img{
-    width: 15%;
+    width: 20%;
 }
 
 
@@ -27,18 +27,18 @@ main{
 }
 
 .mockup_image{
-    width: 45%;
+    width: 15%;
     /* flex-basis: 50%; */
 }
 
 .content{
     /* flex-basis: 45%; */
-    width: 40%;
+    width: 35%;
     margin: 3em auto;
 }
 
 .content h2{
-    font-size: 35px !important;
+    font-size: 35px;
     color: white;
     font-family: "Poppins";
 }
@@ -46,14 +46,14 @@ main{
 .content p{
     padding: 2em 0em;
     color: rgb(236, 235, 235);
-    font-size: 15px; 
+    font-size: 14px; 
     line-height: 25px;
 }
 
 .content button{
     padding: 1em;
     border-radius: 30px;
-    width: 40% !important;
+    width: 40%;
     color: purple;
     border: none;
 }
@@ -64,7 +64,7 @@ main{
 
 }
 footer{
-    float: right !important;
+    float: right;
 }
 footer .fab{
     color: white;
